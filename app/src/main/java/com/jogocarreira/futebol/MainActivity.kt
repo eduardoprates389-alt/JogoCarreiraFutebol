@@ -1,4 +1,4 @@
- package com.jogocarreira.futebol
+package com.jogocarreira.futebol
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -36,19 +36,42 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun JogoCarreira() {
 
-    var iniciouCarreira by remember { mutableStateOf(false) }
+    var iniciouCarreira by remember {
+        mutableStateOf(false)
+    }
 
-    if (!iniciouCarreira) {
+    var jogadorCriado by remember {
+        mutableStateOf(false)
+    }
 
-        TelaInicial(
-            onComecar = {
-                iniciouCarreira = true
-            }
-        )
+    var nomeJogador by remember {
+        mutableStateOf("")
+    }
 
-    } else {
+    when {
 
-        TelaCriarCarreira()
+        !iniciouCarreira -> {
+            TelaInicial(
+                onComecar = {
+                    iniciouCarreira = true
+                }
+            )
+        }
+
+        !jogadorCriado -> {
+            TelaCriarCarreira(
+                onCriarJogador = { nome ->
+                    nomeJogador = nome
+                    jogadorCriado = true
+                }
+            )
+        }
+
+        else -> {
+            TelaJogador(
+                nomeJogador = nomeJogador
+            )
+        }
     }
 }
 
@@ -84,7 +107,9 @@ fun TelaInicial(
 }
 
 @Composable
-fun TelaCriarCarreira() {
+fun TelaCriarCarreira(
+    onCriarJogador: (String) -> Unit
+) {
 
     var nomeJogador by remember {
         mutableStateOf("")
@@ -123,7 +148,9 @@ fun TelaCriarCarreira() {
 
         Button(
             onClick = {
-                // Próxima etapa da carreira
+                if (nomeJogador.isNotBlank()) {
+                    onCriarJogador(nomeJogador)
+                }
             }
         ) {
 
@@ -133,3 +160,40 @@ fun TelaCriarCarreira() {
         }
     }
 }
+
+@Composable
+fun TelaJogador(
+    nomeJogador: String
+) {
+
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(24.dp),
+        horizontalAlignment = Alignment.CenterHorizontally,
+        verticalArrangement = Arrangement.Center
+    ) {
+
+        Text(
+            text = "JOGADOR CRIADO",
+            fontSize = 26.sp
+        )
+
+        Spacer(
+            modifier = Modifier.height(20.dp)
+        )
+
+        Text(
+            text = nomeJogador,
+            fontSize = 22.sp
+        )
+
+        Spacer(
+            modifier = Modifier.height(20.dp)
+        )
+
+        Text(
+            text = "Sua carreira começou!"
+        )
+    }
+}           
