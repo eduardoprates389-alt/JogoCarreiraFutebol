@@ -1,0 +1,312 @@
+[
+  {
+    "name": "1ª Divisão Brasil",
+    "country": "Brasil",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Argentina",
+    "country": "Argentina",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Uruguai",
+    "country": "Uruguai",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Colômbia",
+    "country": "Colômbia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Chile",
+    "country": "Chile",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Peru",
+    "country": "Peru",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Equador",
+    "country": "Equador",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Paraguai",
+    "country": "Paraguai",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Bolívia",
+    "country": "Bolívia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Venezuela",
+    "country": "Venezuela",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão México",
+    "country": "México",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Estados Unidos",
+    "country": "Estados Unidos",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Canadá",
+    "country": "Canadá",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Inglaterra",
+    "country": "Inglaterra",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Espanha",
+    "country": "Espanha",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão França",
+    "country": "França",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Alemanha",
+    "country": "Alemanha",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Itália",
+    "country": "Itália",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Portugal",
+    "country": "Portugal",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Países Baixos",
+    "country": "Países Baixos",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Bélgica",
+    "country": "Bélgica",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Turquia",
+    "country": "Turquia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Grécia",
+    "country": "Grécia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Escócia",
+    "country": "Escócia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Áustria",
+    "country": "Áustria",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Suíça",
+    "country": "Suíça",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Ucrânia",
+    "country": "Ucrânia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Croácia",
+    "country": "Croácia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Sérvia",
+    "country": "Sérvia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Dinamarca",
+    "country": "Dinamarca",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Suécia",
+    "country": "Suécia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Noruega",
+    "country": "Noruega",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Polônia",
+    "country": "Polônia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Tchéquia",
+    "country": "Tchéquia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Romênia",
+    "country": "Romênia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Rússia",
+    "country": "Rússia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Marrocos",
+    "country": "Marrocos",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Egito",
+    "country": "Egito",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Argélia",
+    "country": "Argélia",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Nigéria",
+    "country": "Nigéria",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão África do Sul",
+    "country": "África do Sul",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Japão",
+    "country": "Japão",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Coreia do Sul",
+    "country": "Coreia do Sul",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão China",
+    "country": "China",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Austrália",
+    "country": "Austrália",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Arábia Saudita",
+    "country": "Arábia Saudita",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Qatar",
+    "country": "Qatar",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Emirados Árabes Unidos",
+    "country": "Emirados Árabes Unidos",
+    "continental": false
+  },
+  {
+    "name": "1ª Divisão Índia",
+    "country": "Índia",
+    "continental": false
+  },
+  {
+    "name": "UEFA Champions League",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "UEFA Europa League",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "UEFA Conference League",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "CONMEBOL Libertadores",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "CONMEBOL Sudamericana",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "CONCACAF Champions Cup",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "AFC Champions League Elite",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "CAF Champions League",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "OFC Champions League",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "Copa do Mundo",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "Copa América",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "Euro",
+    "country": "Internacional",
+    "continental": true
+  },
+  {
+    "name": "Mundial de Clubes",
+    "country": "Internacional",
+    "continental": true
+  }
+]

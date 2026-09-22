@@ -1,0 +1,1304 @@
+[
+  {
+    "name": "Flamengo",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 92
+  },
+  {
+    "name": "Palmeiras",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 89
+  },
+  {
+    "name": "São Paulo",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 86
+  },
+  {
+    "name": "Corinthians",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 83
+  },
+  {
+    "name": "Santos",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 80
+  },
+  {
+    "name": "Fluminense",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 77
+  },
+  {
+    "name": "Botafogo",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 74
+  },
+  {
+    "name": "Vasco da Gama",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 71
+  },
+  {
+    "name": "Grêmio",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 92
+  },
+  {
+    "name": "Internacional",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 89
+  },
+  {
+    "name": "Atlético Mineiro",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 86
+  },
+  {
+    "name": "Cruzeiro",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 83
+  },
+  {
+    "name": "Bahia",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 80
+  },
+  {
+    "name": "Fortaleza",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 77
+  },
+  {
+    "name": "Athletico Paranaense",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 74
+  },
+  {
+    "name": "Bragantino",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 71
+  },
+  {
+    "name": "Ceará",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 92
+  },
+  {
+    "name": "Sport",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 89
+  },
+  {
+    "name": "Vitória",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 86
+  },
+  {
+    "name": "Coritiba",
+    "country": "Brasil",
+    "league": "1ª Divisão Brasil",
+    "strength": 83
+  },
+  {
+    "name": "River Plate",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 92
+  },
+  {
+    "name": "Boca Juniors",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 89
+  },
+  {
+    "name": "Racing Club",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 86
+  },
+  {
+    "name": "Independiente",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 83
+  },
+  {
+    "name": "San Lorenzo",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 80
+  },
+  {
+    "name": "Estudiantes",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 77
+  },
+  {
+    "name": "Lanús",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 74
+  },
+  {
+    "name": "Rosario Central",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 71
+  },
+  {
+    "name": "Talleres",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 92
+  },
+  {
+    "name": "Vélez Sarsfield",
+    "country": "Argentina",
+    "league": "1ª Divisão Argentina",
+    "strength": 89
+  },
+  {
+    "name": "Peñarol",
+    "country": "Uruguai",
+    "league": "1ª Divisão Uruguai",
+    "strength": 92
+  },
+  {
+    "name": "Nacional",
+    "country": "Uruguai",
+    "league": "1ª Divisão Uruguai",
+    "strength": 89
+  },
+  {
+    "name": "Defensor Sporting",
+    "country": "Uruguai",
+    "league": "1ª Divisão Uruguai",
+    "strength": 86
+  },
+  {
+    "name": "Liverpool Montevideo",
+    "country": "Uruguai",
+    "league": "1ª Divisão Uruguai",
+    "strength": 83
+  },
+  {
+    "name": "Atlético Nacional",
+    "country": "Colômbia",
+    "league": "1ª Divisão Colômbia",
+    "strength": 92
+  },
+  {
+    "name": "Millonarios",
+    "country": "Colômbia",
+    "league": "1ª Divisão Colômbia",
+    "strength": 89
+  },
+  {
+    "name": "América de Cali",
+    "country": "Colômbia",
+    "league": "1ª Divisão Colômbia",
+    "strength": 86
+  },
+  {
+    "name": "Deportivo Cali",
+    "country": "Colômbia",
+    "league": "1ª Divisão Colômbia",
+    "strength": 83
+  },
+  {
+    "name": "Junior",
+    "country": "Colômbia",
+    "league": "1ª Divisão Colômbia",
+    "strength": 80
+  },
+  {
+    "name": "Independiente Medellín",
+    "country": "Colômbia",
+    "league": "1ª Divisão Colômbia",
+    "strength": 77
+  },
+  {
+    "name": "Colo-Colo",
+    "country": "Chile",
+    "league": "1ª Divisão Chile",
+    "strength": 92
+  },
+  {
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "league": "1ª Divisão Chile",
+    "strength": 89
+  },
+  {
+    "name": "Universidad Católica",
+    "country": "Chile",
+    "league": "1ª Divisão Chile",
+    "strength": 86
+  },
+  {
+    "name": "Alianza Lima",
+    "country": "Peru",
+    "league": "1ª Divisão Peru",
+    "strength": 92
+  },
+  {
+    "name": "Universitario",
+    "country": "Peru",
+    "league": "1ª Divisão Peru",
+    "strength": 89
+  },
+  {
+    "name": "Sporting Cristal",
+    "country": "Peru",
+    "league": "1ª Divisão Peru",
+    "strength": 86
+  },
+  {
+    "name": "LDU Quito",
+    "country": "Equador",
+    "league": "1ª Divisão Equador",
+    "strength": 92
+  },
+  {
+    "name": "Barcelona SC",
+    "country": "Equador",
+    "league": "1ª Divisão Equador",
+    "strength": 89
+  },
+  {
+    "name": "Emelec",
+    "country": "Equador",
+    "league": "1ª Divisão Equador",
+    "strength": 86
+  },
+  {
+    "name": "Independiente del Valle",
+    "country": "Equador",
+    "league": "1ª Divisão Equador",
+    "strength": 83
+  },
+  {
+    "name": "Olimpia",
+    "country": "Paraguai",
+    "league": "1ª Divisão Paraguai",
+    "strength": 92
+  },
+  {
+    "name": "Cerro Porteño",
+    "country": "Paraguai",
+    "league": "1ª Divisão Paraguai",
+    "strength": 89
+  },
+  {
+    "name": "Libertad",
+    "country": "Paraguai",
+    "league": "1ª Divisão Paraguai",
+    "strength": 86
+  },
+  {
+    "name": "Guaraní",
+    "country": "Paraguai",
+    "league": "1ª Divisão Paraguai",
+    "strength": 83
+  },
+  {
+    "name": "Caracas",
+    "country": "Venezuela",
+    "league": "1ª Divisão Venezuela",
+    "strength": 92
+  },
+  {
+    "name": "Deportivo Táchira",
+    "country": "Venezuela",
+    "league": "1ª Divisão Venezuela",
+    "strength": 89
+  },
+  {
+    "name": "Club América",
+    "country": "México",
+    "league": "1ª Divisão México",
+    "strength": 92
+  },
+  {
+    "name": "Guadalajara",
+    "country": "México",
+    "league": "1ª Divisão México",
+    "strength": 89
+  },
+  {
+    "name": "Cruz Azul",
+    "country": "México",
+    "league": "1ª Divisão México",
+    "strength": 86
+  },
+  {
+    "name": "Pumas UNAM",
+    "country": "México",
+    "league": "1ª Divisão México",
+    "strength": 83
+  },
+  {
+    "name": "Monterrey",
+    "country": "México",
+    "league": "1ª Divisão México",
+    "strength": 80
+  },
+  {
+    "name": "Tigres",
+    "country": "México",
+    "league": "1ª Divisão México",
+    "strength": 77
+  },
+  {
+    "name": "Toluca",
+    "country": "México",
+    "league": "1ª Divisão México",
+    "strength": 74
+  },
+  {
+    "name": "Pachuca",
+    "country": "México",
+    "league": "1ª Divisão México",
+    "strength": 71
+  },
+  {
+    "name": "Inter Miami",
+    "country": "Estados Unidos",
+    "league": "1ª Divisão Estados Unidos",
+    "strength": 92
+  },
+  {
+    "name": "LA Galaxy",
+    "country": "Estados Unidos",
+    "league": "1ª Divisão Estados Unidos",
+    "strength": 89
+  },
+  {
+    "name": "LAFC",
+    "country": "Estados Unidos",
+    "league": "1ª Divisão Estados Unidos",
+    "strength": 86
+  },
+  {
+    "name": "Seattle Sounders",
+    "country": "Estados Unidos",
+    "league": "1ª Divisão Estados Unidos",
+    "strength": 83
+  },
+  {
+    "name": "Atlanta United",
+    "country": "Estados Unidos",
+    "league": "1ª Divisão Estados Unidos",
+    "strength": 80
+  },
+  {
+    "name": "New York City FC",
+    "country": "Estados Unidos",
+    "league": "1ª Divisão Estados Unidos",
+    "strength": 77
+  },
+  {
+    "name": "New York Red Bulls",
+    "country": "Estados Unidos",
+    "league": "1ª Divisão Estados Unidos",
+    "strength": 74
+  },
+  {
+    "name": "Toronto FC",
+    "country": "Canadá",
+    "league": "1ª Divisão Canadá",
+    "strength": 92
+  },
+  {
+    "name": "CF Montréal",
+    "country": "Canadá",
+    "league": "1ª Divisão Canadá",
+    "strength": 89
+  },
+  {
+    "name": "Vancouver Whitecaps",
+    "country": "Canadá",
+    "league": "1ª Divisão Canadá",
+    "strength": 86
+  },
+  {
+    "name": "Arsenal",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 92
+  },
+  {
+    "name": "Chelsea",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 89
+  },
+  {
+    "name": "Liverpool",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 86
+  },
+  {
+    "name": "Manchester City",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 83
+  },
+  {
+    "name": "Manchester United",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 80
+  },
+  {
+    "name": "Tottenham",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 77
+  },
+  {
+    "name": "Newcastle United",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 74
+  },
+  {
+    "name": "Aston Villa",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 71
+  },
+  {
+    "name": "Everton",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 92
+  },
+  {
+    "name": "West Ham United",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 89
+  },
+  {
+    "name": "Brighton",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 86
+  },
+  {
+    "name": "Crystal Palace",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 83
+  },
+  {
+    "name": "Fulham",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 80
+  },
+  {
+    "name": "Brentford",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 77
+  },
+  {
+    "name": "Nottingham Forest",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 74
+  },
+  {
+    "name": "Leicester City",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 71
+  },
+  {
+    "name": "Leeds United",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 92
+  },
+  {
+    "name": "Sunderland",
+    "country": "Inglaterra",
+    "league": "1ª Divisão Inglaterra",
+    "strength": 89
+  },
+  {
+    "name": "Real Madrid",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 92
+  },
+  {
+    "name": "Barcelona",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 89
+  },
+  {
+    "name": "Atlético de Madrid",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 86
+  },
+  {
+    "name": "Athletic Club",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 83
+  },
+  {
+    "name": "Sevilla",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 80
+  },
+  {
+    "name": "Valencia",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 77
+  },
+  {
+    "name": "Villarreal",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 74
+  },
+  {
+    "name": "Real Sociedad",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 71
+  },
+  {
+    "name": "Real Betis",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 92
+  },
+  {
+    "name": "Girona",
+    "country": "Espanha",
+    "league": "1ª Divisão Espanha",
+    "strength": 89
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "country": "França",
+    "league": "1ª Divisão França",
+    "strength": 92
+  },
+  {
+    "name": "Marseille",
+    "country": "França",
+    "league": "1ª Divisão França",
+    "strength": 89
+  },
+  {
+    "name": "Lyon",
+    "country": "França",
+    "league": "1ª Divisão França",
+    "strength": 86
+  },
+  {
+    "name": "Monaco",
+    "country": "França",
+    "league": "1ª Divisão França",
+    "strength": 83
+  },
+  {
+    "name": "Lille",
+    "country": "França",
+    "league": "1ª Divisão França",
+    "strength": 80
+  },
+  {
+    "name": "Nice",
+    "country": "França",
+    "league": "1ª Divisão França",
+    "strength": 77
+  },
+  {
+    "name": "Rennes",
+    "country": "França",
+    "league": "1ª Divisão França",
+    "strength": 74
+  },
+  {
+    "name": "Lens",
+    "country": "França",
+    "league": "1ª Divisão França",
+    "strength": 71
+  },
+  {
+    "name": "Bayern München",
+    "country": "Alemanha",
+    "league": "1ª Divisão Alemanha",
+    "strength": 92
+  },
+  {
+    "name": "Borussia Dortmund",
+    "country": "Alemanha",
+    "league": "1ª Divisão Alemanha",
+    "strength": 89
+  },
+  {
+    "name": "Bayer Leverkusen",
+    "country": "Alemanha",
+    "league": "1ª Divisão Alemanha",
+    "strength": 86
+  },
+  {
+    "name": "RB Leipzig",
+    "country": "Alemanha",
+    "league": "1ª Divisão Alemanha",
+    "strength": 83
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "country": "Alemanha",
+    "league": "1ª Divisão Alemanha",
+    "strength": 80
+  },
+  {
+    "name": "Stuttgart",
+    "country": "Alemanha",
+    "league": "1ª Divisão Alemanha",
+    "strength": 77
+  },
+  {
+    "name": "Borussia Mönchengladbach",
+    "country": "Alemanha",
+    "league": "1ª Divisão Alemanha",
+    "strength": 74
+  },
+  {
+    "name": "Werder Bremen",
+    "country": "Alemanha",
+    "league": "1ª Divisão Alemanha",
+    "strength": 71
+  },
+  {
+    "name": "Juventus",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 92
+  },
+  {
+    "name": "Inter",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 89
+  },
+  {
+    "name": "Milan",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 86
+  },
+  {
+    "name": "Napoli",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 83
+  },
+  {
+    "name": "Roma",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 80
+  },
+  {
+    "name": "Lazio",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 77
+  },
+  {
+    "name": "Atalanta",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 74
+  },
+  {
+    "name": "Fiorentina",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 71
+  },
+  {
+    "name": "Bologna",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 92
+  },
+  {
+    "name": "Torino",
+    "country": "Itália",
+    "league": "1ª Divisão Itália",
+    "strength": 89
+  },
+  {
+    "name": "Benfica",
+    "country": "Portugal",
+    "league": "1ª Divisão Portugal",
+    "strength": 92
+  },
+  {
+    "name": "Porto",
+    "country": "Portugal",
+    "league": "1ª Divisão Portugal",
+    "strength": 89
+  },
+  {
+    "name": "Sporting CP",
+    "country": "Portugal",
+    "league": "1ª Divisão Portugal",
+    "strength": 86
+  },
+  {
+    "name": "Braga",
+    "country": "Portugal",
+    "league": "1ª Divisão Portugal",
+    "strength": 83
+  },
+  {
+    "name": "Vitória Guimarães",
+    "country": "Portugal",
+    "league": "1ª Divisão Portugal",
+    "strength": 80
+  },
+  {
+    "name": "Boavista",
+    "country": "Portugal",
+    "league": "1ª Divisão Portugal",
+    "strength": 77
+  },
+  {
+    "name": "Ajax",
+    "country": "Países Baixos",
+    "league": "1ª Divisão Países Baixos",
+    "strength": 92
+  },
+  {
+    "name": "PSV",
+    "country": "Países Baixos",
+    "league": "1ª Divisão Países Baixos",
+    "strength": 89
+  },
+  {
+    "name": "Feyenoord",
+    "country": "Países Baixos",
+    "league": "1ª Divisão Países Baixos",
+    "strength": 86
+  },
+  {
+    "name": "AZ Alkmaar",
+    "country": "Países Baixos",
+    "league": "1ª Divisão Países Baixos",
+    "strength": 83
+  },
+  {
+    "name": "Twente",
+    "country": "Países Baixos",
+    "league": "1ª Divisão Países Baixos",
+    "strength": 80
+  },
+  {
+    "name": "Club Brugge",
+    "country": "Bélgica",
+    "league": "1ª Divisão Bélgica",
+    "strength": 92
+  },
+  {
+    "name": "Anderlecht",
+    "country": "Bélgica",
+    "league": "1ª Divisão Bélgica",
+    "strength": 89
+  },
+  {
+    "name": "Genk",
+    "country": "Bélgica",
+    "league": "1ª Divisão Bélgica",
+    "strength": 86
+  },
+  {
+    "name": "Gent",
+    "country": "Bélgica",
+    "league": "1ª Divisão Bélgica",
+    "strength": 83
+  },
+  {
+    "name": "Standard Liège",
+    "country": "Bélgica",
+    "league": "1ª Divisão Bélgica",
+    "strength": 80
+  },
+  {
+    "name": "Galatasaray",
+    "country": "Turquia",
+    "league": "1ª Divisão Turquia",
+    "strength": 92
+  },
+  {
+    "name": "Fenerbahçe",
+    "country": "Turquia",
+    "league": "1ª Divisão Turquia",
+    "strength": 89
+  },
+  {
+    "name": "Beşiktaş",
+    "country": "Turquia",
+    "league": "1ª Divisão Turquia",
+    "strength": 86
+  },
+  {
+    "name": "Trabzonspor",
+    "country": "Turquia",
+    "league": "1ª Divisão Turquia",
+    "strength": 83
+  },
+  {
+    "name": "Başakşehir",
+    "country": "Turquia",
+    "league": "1ª Divisão Turquia",
+    "strength": 80
+  },
+  {
+    "name": "Celtic",
+    "country": "Escócia",
+    "league": "1ª Divisão Escócia",
+    "strength": 92
+  },
+  {
+    "name": "Rangers",
+    "country": "Escócia",
+    "league": "1ª Divisão Escócia",
+    "strength": 89
+  },
+  {
+    "name": "Aberdeen",
+    "country": "Escócia",
+    "league": "1ª Divisão Escócia",
+    "strength": 86
+  },
+  {
+    "name": "Hearts",
+    "country": "Escócia",
+    "league": "1ª Divisão Escócia",
+    "strength": 83
+  },
+  {
+    "name": "Kashima Antlers",
+    "country": "Japão",
+    "league": "1ª Divisão Japão",
+    "strength": 92
+  },
+  {
+    "name": "Urawa Red Diamonds",
+    "country": "Japão",
+    "league": "1ª Divisão Japão",
+    "strength": 89
+  },
+  {
+    "name": "Yokohama F. Marinos",
+    "country": "Japão",
+    "league": "1ª Divisão Japão",
+    "strength": 86
+  },
+  {
+    "name": "Kawasaki Frontale",
+    "country": "Japão",
+    "league": "1ª Divisão Japão",
+    "strength": 83
+  },
+  {
+    "name": "Gamba Osaka",
+    "country": "Japão",
+    "league": "1ª Divisão Japão",
+    "strength": 80
+  },
+  {
+    "name": "Jeonbuk Hyundai",
+    "country": "Coreia do Sul",
+    "league": "1ª Divisão Coreia do Sul",
+    "strength": 92
+  },
+  {
+    "name": "Ulsan HD",
+    "country": "Coreia do Sul",
+    "league": "1ª Divisão Coreia do Sul",
+    "strength": 89
+  },
+  {
+    "name": "FC Seoul",
+    "country": "Coreia do Sul",
+    "league": "1ª Divisão Coreia do Sul",
+    "strength": 86
+  },
+  {
+    "name": "Suwon Samsung",
+    "country": "Coreia do Sul",
+    "league": "1ª Divisão Coreia do Sul",
+    "strength": 83
+  },
+  {
+    "name": "Shanghai Port",
+    "country": "China",
+    "league": "1ª Divisão China",
+    "strength": 92
+  },
+  {
+    "name": "Shandong Taishan",
+    "country": "China",
+    "league": "1ª Divisão China",
+    "strength": 89
+  },
+  {
+    "name": "Beijing Guoan",
+    "country": "China",
+    "league": "1ª Divisão China",
+    "strength": 86
+  },
+  {
+    "name": "Shanghai Shenhua",
+    "country": "China",
+    "league": "1ª Divisão China",
+    "strength": 83
+  },
+  {
+    "name": "Sydney FC",
+    "country": "Austrália",
+    "league": "1ª Divisão Austrália",
+    "strength": 92
+  },
+  {
+    "name": "Melbourne Victory",
+    "country": "Austrália",
+    "league": "1ª Divisão Austrália",
+    "strength": 89
+  },
+  {
+    "name": "Melbourne City",
+    "country": "Austrália",
+    "league": "1ª Divisão Austrália",
+    "strength": 86
+  },
+  {
+    "name": "Western Sydney Wanderers",
+    "country": "Austrália",
+    "league": "1ª Divisão Austrália",
+    "strength": 83
+  },
+  {
+    "name": "Al Hilal",
+    "country": "Arábia Saudita",
+    "league": "1ª Divisão Arábia Saudita",
+    "strength": 92
+  },
+  {
+    "name": "Al Nassr",
+    "country": "Arábia Saudita",
+    "league": "1ª Divisão Arábia Saudita",
+    "strength": 89
+  },
+  {
+    "name": "Al Ittihad",
+    "country": "Arábia Saudita",
+    "league": "1ª Divisão Arábia Saudita",
+    "strength": 86
+  },
+  {
+    "name": "Al Ahli",
+    "country": "Arábia Saudita",
+    "league": "1ª Divisão Arábia Saudita",
+    "strength": 83
+  },
+  {
+    "name": "Al Shabab",
+    "country": "Arábia Saudita",
+    "league": "1ª Divisão Arábia Saudita",
+    "strength": 80
+  },
+  {
+    "name": "Al Ahly",
+    "country": "Egito",
+    "league": "1ª Divisão Egito",
+    "strength": 92
+  },
+  {
+    "name": "Zamalek",
+    "country": "Egito",
+    "league": "1ª Divisão Egito",
+    "strength": 89
+  },
+  {
+    "name": "Pyramids FC",
+    "country": "Egito",
+    "league": "1ª Divisão Egito",
+    "strength": 86
+  },
+  {
+    "name": "Wydad Casablanca",
+    "country": "Marrocos",
+    "league": "1ª Divisão Marrocos",
+    "strength": 92
+  },
+  {
+    "name": "Raja Casablanca",
+    "country": "Marrocos",
+    "league": "1ª Divisão Marrocos",
+    "strength": 89
+  },
+  {
+    "name": "AS FAR",
+    "country": "Marrocos",
+    "league": "1ª Divisão Marrocos",
+    "strength": 86
+  },
+  {
+    "name": "Mamelodi Sundowns",
+    "country": "África do Sul",
+    "league": "1ª Divisão África do Sul",
+    "strength": 92
+  },
+  {
+    "name": "Kaizer Chiefs",
+    "country": "África do Sul",
+    "league": "1ª Divisão África do Sul",
+    "strength": 89
+  },
+  {
+    "name": "Orlando Pirates",
+    "country": "África do Sul",
+    "league": "1ª Divisão África do Sul",
+    "strength": 86
+  },
+  {
+    "name": "Red Bull Salzburg",
+    "country": "Áustria",
+    "league": "1ª Divisão Áustria",
+    "strength": 92
+  },
+  {
+    "name": "Rapid Wien",
+    "country": "Áustria",
+    "league": "1ª Divisão Áustria",
+    "strength": 89
+  },
+  {
+    "name": "Austria Wien",
+    "country": "Áustria",
+    "league": "1ª Divisão Áustria",
+    "strength": 86
+  },
+  {
+    "name": "Sturm Graz",
+    "country": "Áustria",
+    "league": "1ª Divisão Áustria",
+    "strength": 83
+  },
+  {
+    "name": "Basel",
+    "country": "Suíça",
+    "league": "1ª Divisão Suíça",
+    "strength": 92
+  },
+  {
+    "name": "Young Boys",
+    "country": "Suíça",
+    "league": "1ª Divisão Suíça",
+    "strength": 89
+  },
+  {
+    "name": "FC Zürich",
+    "country": "Suíça",
+    "league": "1ª Divisão Suíça",
+    "strength": 86
+  },
+  {
+    "name": "Servette",
+    "country": "Suíça",
+    "league": "1ª Divisão Suíça",
+    "strength": 83
+  },
+  {
+    "name": "FC Copenhagen",
+    "country": "Dinamarca",
+    "league": "1ª Divisão Dinamarca",
+    "strength": 92
+  },
+  {
+    "name": "Brøndby",
+    "country": "Dinamarca",
+    "league": "1ª Divisão Dinamarca",
+    "strength": 89
+  },
+  {
+    "name": "Midtjylland",
+    "country": "Dinamarca",
+    "league": "1ª Divisão Dinamarca",
+    "strength": 86
+  },
+  {
+    "name": "Malmö FF",
+    "country": "Suécia",
+    "league": "1ª Divisão Suécia",
+    "strength": 92
+  },
+  {
+    "name": "AIK",
+    "country": "Suécia",
+    "league": "1ª Divisão Suécia",
+    "strength": 89
+  },
+  {
+    "name": "Hammarby",
+    "country": "Suécia",
+    "league": "1ª Divisão Suécia",
+    "strength": 86
+  },
+  {
+    "name": "Djurgården",
+    "country": "Suécia",
+    "league": "1ª Divisão Suécia",
+    "strength": 83
+  },
+  {
+    "name": "Rosenborg",
+    "country": "Noruega",
+    "league": "1ª Divisão Noruega",
+    "strength": 92
+  },
+  {
+    "name": "Molde",
+    "country": "Noruega",
+    "league": "1ª Divisão Noruega",
+    "strength": 89
+  },
+  {
+    "name": "Bodø/Glimt",
+    "country": "Noruega",
+    "league": "1ª Divisão Noruega",
+    "strength": 86
+  },
+  {
+    "name": "Legia Warsaw",
+    "country": "Polônia",
+    "league": "1ª Divisão Polônia",
+    "strength": 92
+  },
+  {
+    "name": "Lech Poznań",
+    "country": "Polônia",
+    "league": "1ª Divisão Polônia",
+    "strength": 89
+  },
+  {
+    "name": "Raków Częstochowa",
+    "country": "Polônia",
+    "league": "1ª Divisão Polônia",
+    "strength": 86
+  },
+  {
+    "name": "Olympiacos",
+    "country": "Grécia",
+    "league": "1ª Divisão Grécia",
+    "strength": 92
+  },
+  {
+    "name": "Panathinaikos",
+    "country": "Grécia",
+    "league": "1ª Divisão Grécia",
+    "strength": 89
+  },
+  {
+    "name": "AEK Athens",
+    "country": "Grécia",
+    "league": "1ª Divisão Grécia",
+    "strength": 86
+  },
+  {
+    "name": "PAOK",
+    "country": "Grécia",
+    "league": "1ª Divisão Grécia",
+    "strength": 83
+  },
+  {
+    "name": "Dinamo Zagreb",
+    "country": "Croácia",
+    "league": "1ª Divisão Croácia",
+    "strength": 92
+  },
+  {
+    "name": "Hajduk Split",
+    "country": "Croácia",
+    "league": "1ª Divisão Croácia",
+    "strength": 89
+  },
+  {
+    "name": "Rijeka",
+    "country": "Croácia",
+    "league": "1ª Divisão Croácia",
+    "strength": 86
+  },
+  {
+    "name": "Red Star Belgrade",
+    "country": "Serbia",
+    "league": "1ª Divisão Serbia",
+    "strength": 92
+  },
+  {
+    "name": "Partizan",
+    "country": "Serbia",
+    "league": "1ª Divisão Serbia",
+    "strength": 89
+  },
+  {
+    "name": "FCSB",
+    "country": "Romênia",
+    "league": "1ª Divisão Romênia",
+    "strength": 92
+  },
+  {
+    "name": "CFR Cluj",
+    "country": "Romênia",
+    "league": "1ª Divisão Romênia",
+    "strength": 89
+  },
+  {
+    "name": "Rapid București",
+    "country": "Romênia",
+    "league": "1ª Divisão Romênia",
+    "strength": 86
+  }
+]
