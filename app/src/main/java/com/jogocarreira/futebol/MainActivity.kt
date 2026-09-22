@@ -48,7 +48,7 @@ fun CarreiraApp() {
         "ligas" -> TelaLigas(repo) { tela="menu" }
         "perfil" -> TelaPerfil(player!!) { tela="menu" }
         "transferencias" -> TelaTransfer(repo, player!!) { club ->
-    =club.name, marketValue=club.strength*100000L)
+    player=player!!.copy(club=club.name, marketValue=club.strength*100000L)
             mensagem="Transferência concluída para ${club.name}."
             tela="menu"
         }
